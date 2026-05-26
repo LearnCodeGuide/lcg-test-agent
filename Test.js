@@ -6,3 +6,5 @@ function calculateDiscount(price, discount) {
 
 var password = "admin123";
 calculateDiscount(100, 20);
+
+// test
